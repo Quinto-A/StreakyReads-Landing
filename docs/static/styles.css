@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+ }
+
+ header {
+       background: #4A90E2;
+       color: white;
+       padding: 20px;
+}
+
+nav ul {
+      list-style: none;
+      padding: 0;
+}
+
+nav ul li {                                                              display: inline;                                                margin: 0 15px;
+}
+
+nav ul li a {                                                              color: white;                                                   text-decoration: none;
+	   font-size: 18px;
+}
+
+.cover omg {
+     max-width: 100%
+     height: auto;
+     border-radius: 10px
+}
+
+button:hover {
+    background: #E68900;
+}
+
+.feature {
+      display: inline-block;
+      width: 30%
+      padding: 20px;
+      text-align: center;
+}
+
+.feature img {
+     max-width: 80px
+     height: auto;
+}
+
+.about {
+     background: #f4f4f4;
+     padding: 50px 20px;
+}
